@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Prioridad -->
+    <color name="priorityHigh">#1e4d73</color> <!-- oscuro tipo alerta -->
+    <color name="priorityMedium">#3cb6dd</color> <!-- celeste -->
+    <color name="priorityLow">#45d392</color>
+
+    <color name="gradient_start">#00BFA6</color>   <!-- Verde claro -->
+    <color name="gradient_center">#00BCD4</color> <!-- Celeste intermedio -->
+    <color name="gradient_end">#007ACC</color>    <!-- Azul oscuro -->
+    <!-- verde -->
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+</resources>

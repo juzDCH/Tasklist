@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Borde tricolor degradado -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:type="linear"
+                android:angle="45"
+                android:startColor="#00BFA6"
+                android:centerColor="#00BCD4"
+                android:endColor="#007ACC"/><!-- Celeste intermedio -->
+                <!-- Azul oscuro -->
+
+            <!-- Verde claro -->
+
+            <corners android:radius="18dp"/>
+        </shape>
+    </item>
+
+    <!-- Fondo blanco interno con padding (borde visible) -->
+    <item android:left="4dp" android:top="4dp" android:right="4dp" android:bottom="4dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/white"/>
+            <corners android:radius="16dp"/>
+        </shape>
+    </item>
+
+</layer-list>
